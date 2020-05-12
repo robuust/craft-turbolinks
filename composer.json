@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "name": "robuust/craft-turbolinks",
+    "description": "Module for use with Craft and Turbolinks",
+    "require": {
+        "php": "^7.0",
+        "craftcms/cms": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "robuust\\turbolinks\\": "src/"
+        }
+    }
+}
